@@ -1,0 +1,23 @@
+
+
+
+.text-custom-2{
+    font-family: 'Bodoni Moda', serif;
+    font-size: 140px;
+    
+    
+    
+}
+.div-form-2{
+    background-image: url(/public/media/risto.avif);
+    background-size: cover;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: 0.3s;
+    margin-top: 100px;
+}
+
+.div-form-2:hover{
+    -webkit-filter: none;
+    color: rgb(235, 216, 0);
+}

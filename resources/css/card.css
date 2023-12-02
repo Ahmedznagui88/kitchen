@@ -1,0 +1,35 @@
+.creatKit{
+    margin: 10px;
+}
+
+.cardKit{
+    width: 400px;
+    border-radius: 0;
+    border: none;
+    font-family: 'Bodoni Moda', serif;
+    margin: 30px;
+}
+
+.imgKit{
+    border-radius: 100px;
+}
+
+/** card show */
+.imgShow{
+    width: 400px;
+}
+
+.textKit{
+    font-family: 'Bodoni Moda', serif;
+    
+}
+
+.bg-custom{
+    background: none;
+}
+
+.items{
+    background-image: url(/public/media/risto2.avif);
+    background-attachment: fixed;
+    background-size: cover;
+}
